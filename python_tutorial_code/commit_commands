@@ -1,0 +1,7 @@
+git add /workspaces/python-beginners-course-may2024/python_tutorial_code/my_workbook.ipynb
+
+git status
+
+git commit -m "Testing out git after setup"
+
+git push origin HEAD
